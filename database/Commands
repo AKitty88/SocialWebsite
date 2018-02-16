@@ -1,0 +1,66 @@
+
+php artisan serve --host $IP --port $PORT
+
+Creates database.sqlite:
+touch database/database.sqlite
+
+
+------------
+
+Migration, Seeder:
+
+php artisan make:migration create_products_table
+php artisan make:seeder ManufacturersTableSeeder
+php artisan migrate
+php artisan migrate:rollback
+php artisan migrate:reset
+
+BEST COMMAND:
+Rollack on everything, migrate again and then seed:
+php artisan migrate:refresh --seed
+
+------------
+
+structure of the table:
+.schema products
+
+------------
+
+Seeding:
+
+php artisan make:seeder ProductsTableSeeder
+php artisan db:seed
+php artisan db:seed -class=ProductsTableSeeder
+
+------------
+
+Model:
+
+php artisan make:model Product
+
+------------
+
+Route:
+
+php artisan route:list
+
+------------
+
+Controller:
+
+php artisan make:controller ProductController --resource
+Route::resource('product', 'ProductController');
+
+------------
+
+Authentication
+
+php artisan make:auth
+
+------------
+
+Settings - clear
+
+php artisan config:cache
+php artisan config:clear
+php artisan cache:clear

@@ -1,0 +1,92 @@
+[10-Apr-2017 02:24:18 UTC] PHP Warning:  include(/home/ubuntu/workspace/webdev/week4/blank/app/Http/Kernel.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/webdev/week4/blank/vendor/composer/ClassLoader.php on line 412
+[10-Apr-2017 02:24:18 UTC] PHP Warning:  include(): Failed opening '/home/ubuntu/workspace/webdev/week4/blank/vendor/composer/../../app/Http/Kernel.php' for inclusion (include_path='.:/usr/share/php') in /home/ubuntu/workspace/webdev/week4/blank/vendor/composer/ClassLoader.php on line 412
+[10-Apr-2017 02:24:18 UTC] PHP Fatal error:  Uncaught ReflectionException: Class App\Http\Kernel does not exist in /home/ubuntu/workspace/webdev/week4/blank/vendor/laravel/framework/src/Illuminate/Container/Container.php:719
+Stack trace:
+#0 /home/ubuntu/workspace/webdev/week4/blank/vendor/laravel/framework/src/Illuminate/Container/Container.php(719): ReflectionClass->__construct('App\\Http\\Kernel')
+#1 /home/ubuntu/workspace/webdev/week4/blank/vendor/laravel/framework/src/Illuminate/Container/Container.php(598): Illuminate\Container\Container->build('App\\Http\\Kernel')
+#2 /home/ubuntu/workspace/webdev/week4/blank/vendor/laravel/framework/src/Illuminate/Container/Container.php(567): Illuminate\Container\Container->resolve('App\\Http\\Kernel')
+#3 /home/ubuntu/workspace/webdev/week4/blank/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(708): Illuminate\Container\Container->make('App\\Http\\Kernel')
+#4 /home/ubuntu/workspace/webdev/week4/blank/vendor/laravel/framework/src/Illuminate/Container/Container.php(246): Illuminate\Foundation\App in /home/ubuntu/workspace/webdev/week4/blank/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 719
+[10-Apr-2017 02:24:56 UTC] PHP Warning:  include(/home/ubuntu/workspace/webdev/week4/blank/vendor/composer/../../app/Http/Kernel.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/webdev/week4/blank/vendor/composer/ClassLoader.php on line 412
+[10-Apr-2017 02:24:56 UTC] PHP Warning:  include(): Failed opening '/home/ubuntu/workspace/webdev/week4/blank/vendor/composer/../../app/Http/Kernel.php' for inclusion (include_path='.:/usr/share/php') in /home/ubuntu/workspace/webdev/week4/blank/vendor/composer/ClassLoader.php on line 412
+[10-Apr-2017 02:24:56 UTC] PHP Fatal error:  Uncaught ReflectionException: Class App\Http\Kernel does not exist in /home/ubuntu/workspace/webdev/week4/blank/vendor/laravel/framework/src/Illuminate/Container/Container.php:719
+Stack trace:
+#0 /home/ubuntu/workspace/webdev/week4/blank/vendor/laravel/framework/src/Illuminate/Container/Container.php(719): ReflectionClass->__construct('App\\Http\\Kernel')
+#1 /home/ubuntu/workspace/webdev/week4/blank/vendor/laravel/framework/src/Illuminate/Container/Container.php(598): Illuminate\Container\Container->build('App\\Http\\Kernel')
+#2 /home/ubuntu/workspace/webdev/week4/blank/vendor/laravel/framework/src/Illuminate/Container/Container.php(567): Illuminate\Container\Container->resolve('App\\Http\\Kernel')
+#3 /home/ubuntu/workspace/webdev/week4/blank/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(708): Illuminate\Container\Container->make('App\\Http\\Kernel')
+#4 /home/ubuntu/workspace/webdev/week4/blank/vendor/laravel/framework/src/Illuminate/Container/Container.php(246): Illuminate\Foundation\App in /home/ubuntu/workspace/webdev/week4/blank/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 719
+[10-Apr-2017 02:25:02 UTC] PHP Warning:  include(/home/ubuntu/workspace/webdev/week4/blank/vendor/composer/../../app/Http/Kernel.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/webdev/week4/blank/vendor/composer/ClassLoader.php on line 412
+[10-Apr-2017 02:25:02 UTC] PHP Warning:  include(): Failed opening '/home/ubuntu/workspace/webdev/week4/blank/vendor/composer/../../app/Http/Kernel.php' for inclusion (include_path='.:/usr/share/php') in /home/ubuntu/workspace/webdev/week4/blank/vendor/composer/ClassLoader.php on line 412
+[10-Apr-2017 02:25:02 UTC] PHP Fatal error:  Uncaught ReflectionException: Class App\Http\Kernel does not exist in /home/ubuntu/workspace/webdev/week4/blank/vendor/laravel/framework/src/Illuminate/Container/Container.php:719
+Stack trace:
+#0 /home/ubuntu/workspace/webdev/week4/blank/vendor/laravel/framework/src/Illuminate/Container/Container.php(719): ReflectionClass->__construct('App\\Http\\Kernel')
+#1 /home/ubuntu/workspace/webdev/week4/blank/vendor/laravel/framework/src/Illuminate/Container/Container.php(598): Illuminate\Container\Container->build('App\\Http\\Kernel')
+#2 /home/ubuntu/workspace/webdev/week4/blank/vendor/laravel/framework/src/Illuminate/Container/Container.php(567): Illuminate\Container\Container->resolve('App\\Http\\Kernel')
+#3 /home/ubuntu/workspace/webdev/week4/blank/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(708): Illuminate\Container\Container->make('App\\Http\\Kernel')
+#4 /home/ubuntu/workspace/webdev/week4/blank/vendor/laravel/framework/src/Illuminate/Container/Container.php(246): Illuminate\Foundation\App in /home/ubuntu/workspace/webdev/week4/blank/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 719
+[10-Apr-2017 02:25:05 UTC] PHP Warning:  include(/home/ubuntu/workspace/webdev/week4/blank/vendor/composer/../../app/Http/Kernel.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/webdev/week4/blank/vendor/composer/ClassLoader.php on line 412
+[10-Apr-2017 02:25:05 UTC] PHP Warning:  include(): Failed opening '/home/ubuntu/workspace/webdev/week4/blank/vendor/composer/../../app/Http/Kernel.php' for inclusion (include_path='.:/usr/share/php') in /home/ubuntu/workspace/webdev/week4/blank/vendor/composer/ClassLoader.php on line 412
+[10-Apr-2017 02:25:05 UTC] PHP Fatal error:  Uncaught ReflectionException: Class App\Http\Kernel does not exist in /home/ubuntu/workspace/webdev/week4/blank/vendor/laravel/framework/src/Illuminate/Container/Container.php:719
+Stack trace:
+#0 /home/ubuntu/workspace/webdev/week4/blank/vendor/laravel/framework/src/Illuminate/Container/Container.php(719): ReflectionClass->__construct('App\\Http\\Kernel')
+#1 /home/ubuntu/workspace/webdev/week4/blank/vendor/laravel/framework/src/Illuminate/Container/Container.php(598): Illuminate\Container\Container->build('App\\Http\\Kernel')
+#2 /home/ubuntu/workspace/webdev/week4/blank/vendor/laravel/framework/src/Illuminate/Container/Container.php(567): Illuminate\Container\Container->resolve('App\\Http\\Kernel')
+#3 /home/ubuntu/workspace/webdev/week4/blank/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(708): Illuminate\Container\Container->make('App\\Http\\Kernel')
+#4 /home/ubuntu/workspace/webdev/week4/blank/vendor/laravel/framework/src/Illuminate/Container/Container.php(246): Illuminate\Foundation\App in /home/ubuntu/workspace/webdev/week4/blank/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 719
+[06-Aug-2017 09:55:23 UTC] PHP Warning:  Uncaught ErrorException: require_once(public/classes/post.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/WebAppDev/Assignment/routes/web.php:2
+Stack trace:
+#0 /home/ubuntu/workspace/WebAppDev/Assignment/routes/web.php(2): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'require_once(pu...', '/home/ubuntu/wo...', 2, Array)
+#1 /home/ubuntu/workspace/WebAppDev/Assignment/routes/web.php(2): require_once()
+#2 /home/ubuntu/workspace/WebAppDev/Assignment/vendor/laravel/framework/src/Illuminate/Routing/Router.php(329): require('/home/ubuntu/wo...')
+#3 /home/ubuntu/workspace/WebAppDev/Assignment/vendor/laravel/framework/src/Illuminate/Routing/Router.php(285): Illuminate\Routing\Router->loadRoutes('/home/ubuntu/wo...')
+#4 /home/ubuntu/workspace/WebAppDev/Assignment/vendor/laravel/framework/src/Illuminate/Routing/RouteRegistrar.php(104): Illuminate\Routing\Router->group(Array, '/home/ubuntu/wo...')
+#5 /home/ubuntu/workspace/WebAppDev/Assignment/app/Providers/RouteServic in /home/ubuntu/workspace/WebAppDev/Assignment/routes/web.php on line 2
+[06-Aug-2017 09:55:23 UTC] PHP Fatal error:  Illuminate\Routing\Router::main(): Failed opening required 'public/classes/post.php' (include_path='.:/usr/share/php') in /home/ubuntu/workspace/WebAppDev/Assignment/routes/web.php on line 2
+[08-Aug-2017 02:44:20 UTC] PHP Fatal error:  Constant expression contains invalid operations in /home/ubuntu/workspace/WebAppDev/Assignment/routes/web.php on line 7
+[14-Aug-2017 00:40:40 UTC] PHP Warning:  Uncaught ErrorException: require(/home/ubuntu/workspace/WebAppDev/Assignment/app/pms.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/WebAppDev/Assignment/routes/web.php:14
+Stack trace:
+#0 /home/ubuntu/workspace/WebAppDev/Assignment/routes/web.php(14): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'require(/home/u...', '/home/ubuntu/wo...', 14, Array)
+#1 /home/ubuntu/workspace/WebAppDev/Assignment/routes/web.php(14): require()
+#2 /home/ubuntu/workspace/WebAppDev/Assignment/vendor/laravel/framework/src/Illuminate/Routing/Router.php(329): require('/home/ubuntu/wo...')
+#3 /home/ubuntu/workspace/WebAppDev/Assignment/vendor/laravel/framework/src/Illuminate/Routing/Router.php(285): Illuminate\Routing\Router->loadRoutes('/home/ubuntu/wo...')
+#4 /home/ubuntu/workspace/WebAppDev/Assignment/vendor/laravel/framework/src/Illuminate/Routing/RouteRegistrar.php(104): Illuminate\Routing\Router->group(Array, '/home/ubuntu/wo...')
+#5 /home/ubuntu/workspace/WebAppDev/Assignment in /home/ubuntu/workspace/WebAppDev/Assignment/routes/web.php on line 14
+[14-Aug-2017 00:40:40 UTC] PHP Fatal error:  Illuminate\Routing\Router::main(): Failed opening required '/home/ubuntu/workspace/WebAppDev/Assignment/app/pms.php' (include_path='.:/usr/share/php') in /home/ubuntu/workspace/WebAppDev/Assignment/routes/web.php on line 14
+[18-Aug-2017 01:31:25 UTC] PHP Fatal error:  Redefinition of parameter $name in /home/ubuntu/workspace/WebAppDev/Assignment/routes/web.php on line 119
+[18-Aug-2017 01:32:00 UTC] PHP Fatal error:  Redefinition of parameter $name in /home/ubuntu/workspace/WebAppDev/Assignment/routes/web.php on line 119
+[10-Sep-2017 09:58:49 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Auth\Controller' not found in /home/ubuntu/workspace/WebAppDev/Assignment3/app/Http/Controllers/PostController.php on line 12
+[10-Sep-2017 10:28:41 UTC] PHP Fatal error:  Class 'Illuminate\Auth\Events\Controller' not found in /home/ubuntu/workspace/WebAppDev/Assignment3/app/Http/Controllers/PostController.php on line 13
+[10-Sep-2017 10:34:58 UTC] PHP Fatal error:  Cannot use Auth as Auth because the name is already in use in /home/ubuntu/workspace/WebAppDev/Assignment3/app/Http/Controllers/PostController.php on line 10
+[13-Sep-2017 06:10:46 UTC] PHP Warning:  The use statement with non-compound name 'Auth' has no effect in /home/ubuntu/workspace/WebAppDev/Assignment3/routes/web.php on line 9
+[13-Sep-2017 06:12:10 UTC] PHP Warning:  The use statement with non-compound name 'Auth' has no effect in /home/ubuntu/workspace/WebAppDev/Assignment3/routes/web.php on line 9
+[13-Sep-2017 06:14:22 UTC] PHP Warning:  The use statement with non-compound name 'Auth' has no effect in /home/ubuntu/workspace/WebAppDev/Assignment3/routes/web.php on line 9
+[13-Sep-2017 06:21:10 UTC] PHP Warning:  The use statement with non-compound name 'Auth' has no effect in /home/ubuntu/workspace/WebAppDev/Assignment3/routes/web.php on line 9
+[13-Sep-2017 06:39:12 UTC] PHP Warning:  The use statement with non-compound name 'Auth' has no effect in /home/ubuntu/workspace/WebAppDev/Assignment3/routes/web.php on line 9
+[13-Sep-2017 06:40:26 UTC] PHP Warning:  The use statement with non-compound name 'Auth' has no effect in /home/ubuntu/workspace/WebAppDev/Assignment3/routes/web.php on line 9
+[13-Sep-2017 06:40:48 UTC] PHP Warning:  The use statement with non-compound name 'Auth' has no effect in /home/ubuntu/workspace/WebAppDev/Assignment3/routes/web.php on line 9
+[13-Sep-2017 06:41:36 UTC] PHP Warning:  The use statement with non-compound name 'Auth' has no effect in /home/ubuntu/workspace/WebAppDev/Assignment3/routes/web.php on line 9
+[13-Sep-2017 06:42:03 UTC] PHP Warning:  The use statement with non-compound name 'Auth' has no effect in /home/ubuntu/workspace/WebAppDev/Assignment3/routes/web.php on line 9
+[13-Sep-2017 06:42:37 UTC] PHP Warning:  The use statement with non-compound name 'Auth' has no effect in /home/ubuntu/workspace/WebAppDev/Assignment3/routes/web.php on line 9
+[13-Sep-2017 06:43:22 UTC] PHP Warning:  The use statement with non-compound name 'Auth' has no effect in /home/ubuntu/workspace/WebAppDev/Assignment3/routes/web.php on line 9
+[13-Sep-2017 06:43:32 UTC] PHP Warning:  The use statement with non-compound name 'Auth' has no effect in /home/ubuntu/workspace/WebAppDev/Assignment3/routes/web.php on line 9
+[13-Sep-2017 06:54:22 UTC] PHP Warning:  The use statement with non-compound name 'Auth' has no effect in /home/ubuntu/workspace/WebAppDev/Assignment3/routes/web.php on line 9
+[13-Sep-2017 07:03:07 UTC] PHP Warning:  The use statement with non-compound name 'Auth' has no effect in /home/ubuntu/workspace/WebAppDev/Assignment3/routes/web.php on line 9
+[13-Sep-2017 07:03:15 UTC] PHP Warning:  The use statement with non-compound name 'Auth' has no effect in /home/ubuntu/workspace/WebAppDev/Assignment3/routes/web.php on line 9
+[13-Sep-2017 07:03:24 UTC] PHP Warning:  The use statement with non-compound name 'Auth' has no effect in /home/ubuntu/workspace/WebAppDev/Assignment3/routes/web.php on line 9
+[13-Sep-2017 07:03:44 UTC] PHP Warning:  The use statement with non-compound name 'Auth' has no effect in /home/ubuntu/workspace/WebAppDev/Assignment3/routes/web.php on line 9
+[13-Sep-2017 07:04:57 UTC] PHP Warning:  The use statement with non-compound name 'Auth' has no effect in /home/ubuntu/workspace/WebAppDev/Assignment3/routes/web.php on line 9
+[13-Sep-2017 07:07:56 UTC] PHP Warning:  The use statement with non-compound name 'Auth' has no effect in /home/ubuntu/workspace/WebAppDev/Assignment3/routes/web.php on line 9
+[13-Sep-2017 07:08:08 UTC] PHP Warning:  The use statement with non-compound name 'Auth' has no effect in /home/ubuntu/workspace/WebAppDev/Assignment3/routes/web.php on line 9
+[13-Sep-2017 07:12:43 UTC] PHP Warning:  The use statement with non-compound name 'Auth' has no effect in /home/ubuntu/workspace/WebAppDev/Assignment3/routes/web.php on line 9
+[13-Sep-2017 07:14:59 UTC] PHP Warning:  The use statement with non-compound name 'Auth' has no effect in /home/ubuntu/workspace/WebAppDev/Assignment3/routes/web.php on line 9
+[13-Sep-2017 07:16:43 UTC] PHP Warning:  The use statement with non-compound name 'Auth' has no effect in /home/ubuntu/workspace/WebAppDev/Assignment3/routes/web.php on line 9
+[13-Sep-2017 07:18:08 UTC] PHP Warning:  The use statement with non-compound name 'Auth' has no effect in /home/ubuntu/workspace/WebAppDev/Assignment3/routes/web.php on line 9
+[13-Sep-2017 07:18:24 UTC] PHP Warning:  The use statement with non-compound name 'Auth' has no effect in /home/ubuntu/workspace/WebAppDev/Assignment3/routes/web.php on line 9
+[13-Sep-2017 07:18:41 UTC] PHP Warning:  The use statement with non-compound name 'Auth' has no effect in /home/ubuntu/workspace/WebAppDev/Assignment3/routes/web.php on line 9
+[13-Sep-2017 07:19:00 UTC] PHP Warning:  The use statement with non-compound name 'Auth' has no effect in /home/ubuntu/workspace/WebAppDev/Assignment3/routes/web.php on line 9
+[13-Sep-2017 07:19:30 UTC] PHP Warning:  The use statement with non-compound name 'Auth' has no effect in /home/ubuntu/workspace/WebAppDev/Assignment3/routes/web.php on line 9
+[13-Sep-2017 07:22:04 UTC] PHP Warning:  The use statement with non-compound name 'Auth' has no effect in /home/ubuntu/workspace/WebAppDev/Assignment3/routes/web.php on line 9
+[17-Sep-2017 22:36:49 UTC] PHP Warning:  Unknown: failed to open stream: No such file or directory in Unknown on line 0
+[17-Sep-2017 22:36:49 UTC] PHP Fatal error:  Unknown: Failed opening required '/home/ubuntu/workspace/WebAppDev/Assignment3/server.php' (include_path='.:/usr/share/php') in Unknown on line 0
+[23-Sep-2017 08:59:39 UTC] PHP Fatal error:  Trait 'App\Notifiable' not found in /home/ubuntu/workspace/WebAppDev/Assignment2/app/MeetUser.php on line 9

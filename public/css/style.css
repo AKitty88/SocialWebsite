@@ -1,0 +1,68 @@
+#content {
+   padding: 10px;
+   margin: 10px;
+}
+
+#myposts {                                                 /* id */
+   margin: 10px;
+   padding-top: 20px;
+   padding-left: 20px;
+   width: 80%;
+   padding:30px;
+   padding-bottom: 15px;
+   border-radius: 8px 8px 8px 8px;
+   -moz-border-radius: 8px 8px 8px 8px;
+   -webkit-border-radius: 8px 8px 8px 8px;
+   border: 1px solid #cccccc;
+   float:left;
+   background-color: lightgrey;
+}
+
+#mycomments {
+   margin: 10px;
+   padding-top: 50px;
+   padding-left: 50px;
+   width: 80%;
+   padding:30px;
+   padding-bottom: 15px;
+   border-radius: 8px 8px 8px 8px;
+   -moz-border-radius: 8px 8px 8px 8px;
+   -webkit-border-radius: 8px 8px 8px 8px;
+   border: 1px solid #cccccc;
+   background-color: white;
+}
+
+.content 
+{
+ display: block;
+ margin-top: 0em;
+ border:1px;
+}
+
+body 
+{
+ background-image: url(http://azbukabez.ru/uploads/posts/2015-06/5c59daaa4ce9da3f9f9a0b9db6ae8222.jpg);
+ background-repeat: no-repeat;
+ background-position: 0 0;
+ background-size: cover;
+}
+
+.postName                                                 /* class */
+{
+ font-size : 14pt; font-weight:bold;
+}
+
+.postTitle
+{
+ font-size : 10pt; font-weight:bold;
+}
+
+.postMessage
+{
+ margin-top: 10pt;
+}
+
+textarea
+{ 
+ width: 100%; margin: 0; padding: 0; border-width: 0;
+}
